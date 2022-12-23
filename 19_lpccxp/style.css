@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+}
+
+header {
+    background: #FFD900;   
+}
+
+#principal {
+    display: grid;
+    position: absolute;
+}
+
+#texto {
+    text-align: center;
+}
+
+#titulo {
+    color: #F3C61F;
+}
+
+h1, h2, p {
+    background-color: #514988;
+}
+
+h2, p {
+    color: #FFFFFF;
+}
+
+h1, h2 {
+    width: 676px;
+    height: 50px;
+    top: 149px;
+}
+
+p {
+    font-family: 'Verdana';
+    width: 676px;
+    height: 350px;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 19px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#quinta {
+    position: absolute;
+    width: 180px;
+    height: 204px;
+    left: 31px;
+    top: 575px;
+}
+
+#sexta {
+    position: absolute;
+    width: 180px;
+    height: 204px;
+    left: 190px;
+    top: 575px;
+}
+
+#esgotado {
+    position: absolute;
+    width: 180px;
+    height: 204px;
+    left: 348px;
+    top: 575px;
+}
+
+#domingo {
+    position: absolute;
+    width: 180px;
+    height: 204px;
+    left: 503px;
+    top: 575px;
+}
+
+#ainda {
+    height: 84px;
+    font-weight: bold;
+    font-family: 'Verdana';
+    color: #F3C61F;
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 800px;
+    left: 89px;
+    top: 540px;
+}
+
+.garanta {
+    background: #514988;
+    color: #FFFFFF;
+    font-weight: bold;
+    position: absolute;
+    width: 417px;
+    height: 80px;
+    left: 904px;
+    top: 600px;
+    border-radius: 10px;
+    font-size: 22px;
+    align-items: center;
+    text-align: center;
+    border: none;
+}
+
+#video {
+    position: absolute;
+    width: 760px;
+    height: 390px;
+    left: 683px;
+    top: 58px;
+}
+
+#arlequina {
+    position: absolute;
+    width: 1150px;
+    height: 455px;
+    left: 485px;
+    top: 2px;
+    opacity: 0.2;
+}
+
+#maior {
+    position: absolute;
+    width: 700px;
+    height: 35px;
+    left: 730px;
+    top: 20px;
+    border: none;
+    background-color: #FFFFFF;
+    color: #E33881;
+    font-weight: bold;
+}
+
+button:hover {
+    background: yellow;
+    cursor: pointer;
+    color: black;
+}
+
+.count {
+    background: #514988;
+    color: #FFFFFF;
+    font-weight: bold;
+    position: absolute;
+    width: 417px;
+    height: 70px;
+    left: 904px;
+    top: 700px;
+    border-radius: 10px;
+    font-size: 22px;
+    align-items: center;
+    text-align: center;
+    border: none;
+}
+
+
+
